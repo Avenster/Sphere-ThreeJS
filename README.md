@@ -13,8 +13,7 @@ From Scratch: The entire project, including the canvas creation and Three.js imp
 > npm install gsap three
 
 
-npm run
-
+> npm run
 ### How to Use
 To experience the sphere firsthand, simply clone this repository and open the index.html file in a web browser. Interact with the sphere using your mouse or touchpad to rotate it around its axis.
 
