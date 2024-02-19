@@ -10,10 +10,9 @@ Interactive Sphere: Users can interact with the sphere, rotating it in various d
 Customization: The sphere's appearance and behavior can be easily customized through the provided code, allowing for experimentation and creativity.
 From Scratch: The entire project, including the canvas creation and Three.js implementation, was developed from scratch, demonstrating a solid understanding of 3D graphics programming concepts.
 
-> npm install gsap three
+``` npm install gsap three ```
 
-
-> npm run
+``` npm run ```
 ### How to Use
 To experience the sphere firsthand, simply clone this repository and open the index.html file in a web browser. Interact with the sphere using your mouse or touchpad to rotate it around its axis.
 
