@@ -10,7 +10,7 @@ Interactive Sphere: Users can interact with the sphere, rotating it in various d
 Customization: The sphere's appearance and behavior can be easily customized through the provided code, allowing for experimentation and creativity.
 From Scratch: The entire project, including the canvas creation and Three.js implementation, was developed from scratch, demonstrating a solid understanding of 3D graphics programming concepts.
 
-<div style = "background-color: #f0f0f0;" >
+<div style = "background-color: #fff;" >
 npm install gsap three
 </div>
 
