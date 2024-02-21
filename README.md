@@ -5,6 +5,7 @@
 ## The Sphere is rotateable and is Responsive also 
 
 
+
 ## Features
 Interactive Sphere: Users can interact with the sphere, rotating it in various directions to examine its surface.
 Customization: The sphere's appearance and behavior can be easily customized through the provided code, allowing for experimentation and creativity.
