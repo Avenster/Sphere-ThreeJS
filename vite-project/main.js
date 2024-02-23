@@ -8,6 +8,7 @@ const material = new THREE.MeshStandardMaterial({
   color: "#00E0FF",
   roughness:0.2,
 });
+
 //hello world
 
 const mesh = new THREE.Mesh(geometry, material);
