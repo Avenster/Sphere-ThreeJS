@@ -8,3 +8,7 @@ body, html{
   /* background: linear-gradient(#00E0FF,black); */
   background-color: black;
 }
+.container{
+  width: 100%;
+  height: 100%;
+}
